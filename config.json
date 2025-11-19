@@ -1,0 +1,8 @@
+{
+  "guildId": "ID_бюьецн_яепбепю",
+  "applicationChannelId": "ID_йюмюкю_цде_асдер_ймнойю_ондюрэ",
+  "logChannelId": "ID_йюмюкю_йсдю_опхундър_гюъбйх",
+  "voiceChannelId": "ID_бнияю_дкъ_нагбнмю",
+  "rolesToPing": [ "ID_пнкх_пейпсреп", "ID_пнкх_уюипюмц" ],
+  "cooldownSeconds": 86400
+}
