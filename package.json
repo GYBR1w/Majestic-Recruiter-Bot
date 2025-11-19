@@ -2,5 +2,12 @@
   "dependencies": {
     "discord.js": "^14.25.0",
     "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "eslint": "^9.39.1"
+  },
+  "scripts": {
+    "start": "concurrently \"node index.js\" \"node server.js\""
   }
 }
