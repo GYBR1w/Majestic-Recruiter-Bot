@@ -66,7 +66,7 @@ client.on('interactionCreate', async interaction => {
                 .setTitle('🏛 Вступление в семью')
                 .setDescription('Нажмите кнопку ниже, чтобы подать заявку.\nБот создаст для вас приватный чат.')
                 .setColor(0x2B2D31)
-                .setFooter({ text: 'Majestic RP Family System' })
+                .setFooter({ text: 'dev by folny' })
                 .setImage(config.bannerUrl);
 
             const row = new ActionRowBuilder()
